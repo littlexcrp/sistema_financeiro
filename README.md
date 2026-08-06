@@ -13,7 +13,7 @@ Este projeto consiste em um mini sistema de controle de finanças pessoais desen
 - Validação das entradas do usuário
 - Interface via terminal
 
-## Tecnologias utilizada
+## Tecnologia utilizada
 
 - Python 3
 
