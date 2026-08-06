@@ -37,7 +37,7 @@ Este projeto consiste em um mini sistema de controle de finanças pessoais desen
 
 # Melhorias Futuras
 
-- [x] Permitir múltiplas movimentações com o mesmo nome (utilizando em vez do dicionário uma lista de dicionários).
+- [ ] Permitir múltiplas movimentações com o mesmo nome (utilizando em vez do dicionário uma lista de dicionários).
 - [ ] Salvar os dados em um arquivo para não perder ao fechar o programa.
 - [ ] Adicionar categorias às receitas e despesas
 - [ ] Permitir registrar data e horário de cada movimentação
