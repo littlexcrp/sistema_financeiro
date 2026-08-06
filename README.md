@@ -54,3 +54,4 @@ Desenvolvido por **Mateus Costa**.
 - LinkedIn: [Mateus Costa](https://www.linkedin.com/in/mateus-costa-89387935a/)
 
   
+_Projeto desenvolvido como parte dos meus estudos em Python e Ciência de Dados._
